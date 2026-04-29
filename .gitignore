@@ -6,7 +6,6 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Models & Large Data
-models/
 data/
 knowledge_sources/raw/
 
