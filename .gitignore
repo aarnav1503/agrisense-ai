@@ -1,0 +1,19 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.env
+.ipynb_checkpoints/
+
+# Models & Large Data
+models/
+data/
+knowledge_sources/raw/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
